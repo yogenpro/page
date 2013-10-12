@@ -1,0 +1,4 @@
+page
+====
+
+Pages for blogging.
